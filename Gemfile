@@ -3,7 +3,7 @@ gem 'rails', '3.2.6'
 gem 'rake', '0.9.2.2'
 gem 'bootstrap-sass', '2.0.0'
 
-group :developmen, :test do
+group :development, :test do
 	gem 'sqlite3', '1.3.5'
 	gem 'rspec-rails', '2.10.0'
 end
